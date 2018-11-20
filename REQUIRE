@@ -5,5 +5,5 @@ Requires
 PlotlyBase 0.2.2
 Reexport 0.2.0
 Compat 0.69
-WebIO
+WebIO 0.4.2 0.4.2
 JSExpr
